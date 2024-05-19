@@ -16,8 +16,11 @@ En este proyecto, replicaremos las características principales del juego Space 
 
 ## Capturas de Pantalla
 
-|                               Juego                               |
-|:-----------------------------------------------------------------------:|
-|  <img src="" style="height: 50%; width:50%;"/>  |
-|                               Ganador                               |                            Perdedor                                  |
-|  <img src="" style="height: 50%; width:50%;"/>  |  <img src="" style="height: 50%; width:50%;"/>  |
+### Juego                              
+<img src="https://github.com/KiritoMoreno/Space-Invaders/blob/main/Captura%20de%20pantalla%202024-05-19%20124641.png" style="height: 50%; width:50%;"/> 
+
+### Ganador                         
+<img src="https://github.com/KiritoMoreno/Space-Invaders/blob/main/Captura%20de%20pantalla%202024-05-19%20124439.png" style="height: 50%; width:50%;"/>
+
+### Perdedor
+<img src="https://github.com/KiritoMoreno/Space-Invaders/blob/main/Captura%20de%20pantalla%202024-05-19%20124430.png" style="height: 50%; width:50%;"/>  
