@@ -16,8 +16,11 @@ In this project, we will replicate the main features of the Space Invaders game 
 
 ## Screenshots
 
-|                               Game                               |
-|:-----------------------------------------------------------------------:|
-|  <img src="" style="height: 50%; width:50%;"/>  |
-|                               Winner                               |                            Loser                                  |
-|  <img src="" style="height: 50%; width:50%;"/>  |  <img src="" style="height: 50%; width:50%;"/>  |
+### Game                              
+<img src="https://github.com/KiritoMoreno/Space-Invaders/blob/main/Captura%20de%20pantalla%202024-05-19%20124641.png" style="height: 50%; width:50%;"/> 
+
+### Win                         
+<img src="https://github.com/KiritoMoreno/Space-Invaders/blob/main/Captura%20de%20pantalla%202024-05-19%20124439.png" style="height: 50%; width:50%;"/>
+
+### Loss
+<img src="https://github.com/KiritoMoreno/Space-Invaders/blob/main/Captura%20de%20pantalla%202024-05-19%20124430.png" style="height: 50%; width:50%;"/>  
